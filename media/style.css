@@ -1,0 +1,42 @@
+/* *************Header Section Started**************/
+
+header {
+    border-bottom: 1px solid gray;
+}
+
+header nav {
+    margin-left: 700px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 30px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+/* *************Header Section Ended**************/
+
+
+/* CSS Box Model */
+
+section {
+    border-radius: 10px;
+    background-color: rgb(126, 126, 168);
+    /* height: 30vh; */
+    width: 50%;
+    margin-top: -50px;
+    padding: 20px;
+
+}

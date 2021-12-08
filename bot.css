@@ -1,0 +1,30 @@
+header nav{
+    list-style: none;
+    text-align: right;
+    padding: 20px;
+    margin: 20px;
+}
+header nav ul li {
+    display: inline;
+    margin: 10px;
+}
+div img {
+    width: 700px;
+    height: 200px;
+    float: right;
+}
+h2 img{
+    height: 65%;
+    width: 100%;
+}
+h1 img{
+    height: 65%;
+    width: 100%;
+}
+h6 {
+    border: thick dotted RED;
+    color: white;
+    background-color: RED;
+    padding: 80px;
+    text-transform: capitalize;
+} 

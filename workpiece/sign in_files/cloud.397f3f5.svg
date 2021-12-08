@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="185px" height="212px" viewBox="0 0 185 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>金山文档品牌logo_256@2x</title>
+    <defs>
+        <path d="M47.0320387,7.10542736e-15 L89,26.6183749 L89,80.2671466 L1.02824733,29.7370529 C0.07043669,29.186896 -0.26003201,27.9644468 0.29012483,27.0066362 C0.46734806,26.6980946 0.72367593,26.4424188 1.03266799,26.265982 L47.0320387,7.10542736e-15 L47.0320387,7.10542736e-15 Z" id="path-1"></path>
+        <linearGradient x1="99.8586179%" y1="37.4459729%" x2="71.3546205%" y2="73.2123745%" id="linearGradient-3">
+            <stop stop-color="#0044B1" offset="0%"></stop>
+            <stop stop-color="#0062FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.3353507%" y1="74.11694%" x2="62.2786219%" y2="37.892852%" id="linearGradient-4">
+            <stop stop-color="#1A4ACC" offset="0%"></stop>
+            <stop stop-color="#0854E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="86.1660936%" x2="50%" y2="12.4413752%" id="linearGradient-5">
+            <stop stop-color="#0A5DF6" offset="0%"></stop>
+            <stop stop-color="#124CDC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M46.7533518,-2.7000624e-13 L90.8453732,22.638866 L90.8453732,79.6630704 L1.90573864,28.4581511 C0.94848111,27.9070324 0.61924053,26.6842519 1.17035921,25.7269944 C1.35108608,25.4130835 1.61367051,25.1541463 1.9300784,24.9778276 L46.7533518,-2.7000624e-13 L46.7533518,-2.7000624e-13 Z" id="path-6"></path>
+        <linearGradient x1="100%" y1="37.3675319%" x2="71.3546205%" y2="73.0319413%" id="linearGradient-8">
+            <stop stop-color="#0044B1" offset="0%"></stop>
+            <stop stop-color="#0062FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#4AC3FF" offset="0%"></stop>
+            <stop stop-color="#0E93F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="金山文档品牌logo_256@2x">
+            <g id="编组-5" transform="translate(3.000000, 130.732853)">
+                <g id="路径" fill="#0062FF" fill-rule="nonzero">
+                    <path d="M47.0320387,7.10542736e-15 L89,26.6183749 L89,80.2671466 L1.02824733,29.7370529 C0.07043669,29.186896 -0.26003201,27.9644468 0.29012483,27.0066362 C0.46734806,26.6980946 0.72367593,26.4424188 1.03266799,26.265982 L47.0320387,7.10542736e-15 L47.0320387,7.10542736e-15 Z" id="path-1"></path>
+                </g>
+                <g id="路径-6备份-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="路径-6备份" fill="url(#linearGradient-3)" fill-rule="nonzero" opacity="0.6" mask="url(#mask-2)" points="89 80.6832662 89 27.2671466 43.9332489 1.67910673 -1.71359468 28.1438908"></polygon>
+                </g>
+            </g>
+            <polygon id="形状结合" fill="url(#linearGradient-4)" fill-rule="nonzero" points="184 105 183.987428 159 92 211 92 158.966565"></polygon>
+            <polygon id="路径-2" fill="url(#linearGradient-5)" fill-rule="nonzero" points="184 159 184 53 138 71.6829686 138 132.18524"></polygon>
+            <g id="编组-3" transform="translate(0.285701, 79.303495)">
+                <g id="编组-4" transform="translate(0.868426, 0.000000)">
+                    <g id="路径" fill="#0082FF" fill-rule="nonzero">
+                        <path d="M46.7533518,-2.7000624e-13 L90.8453732,22.638866 L90.8453732,79.6630704 L1.90573864,28.4581511 C0.94848111,27.9070324 0.61924053,26.6842519 1.17035921,25.7269944 C1.35108608,25.4130835 1.61367051,25.1541463 1.9300784,24.9778276 L46.7533518,-2.7000624e-13 L46.7533518,-2.7000624e-13 Z" id="path-6"></path>
+                    </g>
+                    <g id="路径-6-Clipped">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <g id="path-6"></g>
+                        <path d="M90.8458732,78.696505 L90.8458732,25.696505 L45.7791221,0 L4.62359291,23.8604754 C3.19021523,24.6914955 2.70190795,26.5271526 3.53292807,27.9605303 C3.79673496,28.4155553 4.17553532,28.7932268 4.63134561,29.0556744 L90.8458732,78.696505 L90.8458732,78.696505 Z" id="路径-6" fill="url(#linearGradient-8)" fill-rule="nonzero" opacity="0.600678943" mask="url(#mask-7)"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="编组-2" transform="translate(3.154127, 0.000000)" fill="url(#linearGradient-9)" fill-rule="nonzero">
+                <path d="M86.9978139,1.16223429 L0.99563411,51.0850067 C0.04034721,51.6395341 -0.28453251,52.8634805 0.26999495,53.8187674 C0.44621549,54.1223433 0.69922921,54.374194 1.00361375,54.5490141 L88.8453732,105 L88.8453732,105 L180.845873,53 L91.0051648,1.15708773 C89.7647726,0.441314863 88.2363634,0.443277766 86.9978139,1.16223429 Z" id="路径-3备份"></path>
+            </g>
+        </g>
+    </g>
+</svg>

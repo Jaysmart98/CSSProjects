@@ -1,0 +1,9 @@
+section {
+    flex-direction: column;
+}
+section div{
+    width: 70%;
+}
+section div img {
+    width: 50%;
+}

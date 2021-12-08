@@ -1,0 +1,13 @@
+fieldset {
+    background-color: rgb(3, 22, 56);
+    border: 3px solid orangered;
+}
+h2 {
+    color: white;
+}
+li{
+    color: white;
+}
+table{
+    background-color: tomato;
+}

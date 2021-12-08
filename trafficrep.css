@@ -1,0 +1,18 @@
+section {
+    flex-direction: column;
+}
+#city{
+    width: 400%;
+}
+section div{
+    width: 60%;
+}
+#cars{
+    width: 2%;
+}
+#three{
+    width:300%;
+}
+#main{
+    width: 200%;
+}

@@ -1,0 +1,90 @@
+#jupiter{
+    width: 900px; 
+    margin-left: -1050px;
+    margin-bottom: 350px;
+    animation-duration: 40S;
+    animation-iteration-count: infinite;
+    animation-name: jupiter;
+    transform: rotate(90deg);
+    z-index: -1;
+}
+    #saturn{
+    width: 1200px;
+    margin-left: -1300px;
+    margin-top: -1200px;
+    margin-bottom: 1.9in;
+    animation-duration: 30S;
+    animation-iteration-count: infinite;
+    animation-name: saturn;
+}
+    #uranus{
+    width: 1400px;
+    margin-left: -1500px;
+    margin-top: -100in;
+    margin-bottom: 1in;
+    transform: rotate(-90deg);
+    margin-bottom: 1in;
+    animation-duration: 20S;
+    animation-iteration-count: infinite;
+    animation-name: uranus;
+}
+#neptune{
+    width: 1600px;
+    z-index: -1;
+    position: relative ;
+    animation-duration: 15S;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-name: neptune;
+}
+
+    @keyframes neptune { 
+    from {
+        transform: rotate(360deg);
+    }
+
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes uranus {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes saturn {
+    from {
+        transform: rotate(360deg);
+    }
+
+    to {
+        transform: rotate(0deg);
+    }
+} 
+
+@keyframes jupiter {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+#sun{
+    margin-top: 730px;
+    margin-left: -100px;
+    position: absolute;
+}
+#planet{
+    margin-top: 100px;
+    margin-left: 100px;
+    position: relative;
+    width: 2000px;
+}

@@ -1,0 +1,36 @@
+header{
+    background-color: #000000;
+    height: 500px;
+    width: 700px;
+    position: relative;
+    margin: 5% 0 0 25%;
+ }
+#item1 {
+    background-color: green;
+    margin: 10% 0 0 22%;
+    width: 200px;
+    border-radius: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    mix-blend-mode: screen;
+    position: absolute;
+}
+#item2 {
+      margin: 10% 0 0 40%;
+      background-color: indigo;
+      position: absolute;
+      mix-blend-mode: screen;
+      width: 200px;
+      height: 200px;
+      border-radius: 200px;
+      
+}
+#item3 {
+      width: 200px;
+      height: 200px;
+      border-radius: 100%;
+      margin: 25% 0 0 30%;
+      background-color: blue;
+      position: absolute;
+      mix-blend-mode: screen;
+}

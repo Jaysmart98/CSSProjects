@@ -1,0 +1,117 @@
+body {
+    background-image: url(mutil.media/pngwing.com\ \(6\).png);
+    background-size: cover;
+    position: relative;
+    
+}
+#sun {
+    margin: 40%;
+    margin-right: 20%;
+    position: absolute;
+}
+#sun Img {
+    height: 200px;
+    width: 200px;
+}
+#mercury {
+    width: 90%;
+    height: 90%;
+    position: absolute;
+    margin: 80% auto;
+    animation-name: rotate;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: backwards;  
+}
+@keyframes rotate { to
+    {
+        transform: rotate(0deg);
+    }from { transform: rotate(360deg);
+    }
+    }
+    #venus{
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin: 76% auto;
+        animation-name: rotate;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards; 
+    }
+    #earth {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin: 71% auto;
+        animation-name: rotate;
+        animation-duration: 15s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards;
+    }
+    #mars {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin: 67% auto;
+        animation-name: rotate;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards; 
+    }
+    #jupiter {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin: 63% auto;
+        animation-name: rotate;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards;  
+    }
+    #c {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin: 58% auto;
+        animation-name: rotate;
+        animation-duration: 6s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards;    
+    }
+    #v {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin: 53% auto;
+        animation-name: rotate;
+        animation-duration: 9s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards;  
+    }
+    #nep {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        margin: 48% auto;
+        animation-name: rotate;
+        animation-duration: 8s;
+        animation-iteration-count: infinite;
+        animation-direction: reverse;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards;  
+    }
